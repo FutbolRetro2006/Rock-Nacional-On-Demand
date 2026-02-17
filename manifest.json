@@ -1,10 +1,16 @@
 {
-  "id": "org.callejeroretro.rocknacionalondemand",
+  "id": "com.futbolretro2006.rocknacionalvod",
   "version": "1.0.0",
   "name": "Rock Nacional VOD",
-  "description": "Todo el rock argentino en un solo lugar",
-  "resources": ["stream"],
+  "description": "Todo el Rock Argentino en un solo lugar",
+  "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
-  "idPrefixes": ["tt"],
-  "catalogs": []
+  "idPrefixes": ["recital_"],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "rocknacional",
+      "name": "Recitales"
+    }
+  ]
 }
