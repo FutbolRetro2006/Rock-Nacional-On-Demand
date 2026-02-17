@@ -1,0 +1,10 @@
+{
+  "id": "org.callejeroretro.rocknacionalondemand",
+  "version": "1.0.0",
+  "name": "Rock Nacional VOD",
+  "description": "Todo el rock argentino en un solo lugar",
+  "resources": ["stream"],
+  "types": ["movie"],
+  "idPrefixes": ["tt"],
+  "catalogs": []
+}
