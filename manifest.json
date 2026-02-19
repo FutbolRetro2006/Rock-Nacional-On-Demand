@@ -1,16 +1,16 @@
 {
   "id": "com.futbolretro2006.rocknacionalvod",
   "version": "1.0.0",
-  "name": "Rock Nacional VOD",
+  "name": "Rock Nacional On Demand",
   "description": "Todo el Rock Argentino en un solo lugar",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "idPrefixes": ["recital_"],
   "catalogs": [
     {
-      "type": "movie",
+      "type": "recitales",
       "id": "rocknacional",
-      "name": "Recitales"
+      "name": "Rock Nacional On Demand"
     }
   ]
 }
