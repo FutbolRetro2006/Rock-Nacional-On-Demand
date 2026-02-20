@@ -17,6 +17,12 @@
       "type": "movie",
       "name": "Babasónicos - Quilmes Rock 2025",
       "poster": "https://images2.imgbox.com/41/2d/N0wQ7YRY_o.png"
+      },
+    {
+      "id": "indio_enconcierto",
+      "type": "movie",
+      "name": "Indio Solari - En Concierto (La Plata 2008),
+      "poster": "https://images2.imgbox.com/d3/38/x4gNA5xa_o.png"
     }
   ]
 }
