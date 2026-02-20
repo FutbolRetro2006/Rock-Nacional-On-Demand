@@ -17,7 +17,7 @@ No transmite ningún recital en vivo: Me encantaría poder agregar esta función
 Los shows que se transmiten hace una semana o un mes, no van a estar disponibles inmediatamente: Muchos shows (Por ejemplo: Divididos en el Cosquín Rock 2026, a la fecha de escrito esto) como se transmiten por estas plataformas (Disney +, Flow, etc.), hay que ripearlos decodificando el bloqueo, y es un trabajo largo, x lo tanto no suelen estar disponibles por un tiempo.
 
 Versiones
-
+------------------------------------
 0.90
 
 Estado beta del complemento, se añaden recitales constantemente hasta que se lanze su versión oficial.
