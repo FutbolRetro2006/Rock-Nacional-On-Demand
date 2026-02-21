@@ -23,6 +23,12 @@
       "type": "movie",
       "name": "Indio Solari - En Concierto (La Plata 2008)",
       "poster": "https://images2.imgbox.com/d3/38/x4gNA5xa_o.png"
+      },
+    {
+      "id": "callejeros_obras2004",
+      "type": "movie",
+      "name": "Callejeros - Estadio Obras Sanitarias 30/07/2004",
+      "poster": "https://images2.imgbox.com/85/5e/ZsI1EgsH_o.png"
     }
   ]
 }
